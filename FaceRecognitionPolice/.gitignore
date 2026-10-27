@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+venv/
+.venv/
+**/venv/
+**/__pycache__/
+.streamlit/secrets.toml
+database/
+**/database/
