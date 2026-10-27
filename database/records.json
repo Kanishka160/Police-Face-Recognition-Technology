@@ -1,0 +1,54 @@
+[
+  {
+    "id": "criminal1",
+    "name": "Arthur Pendelton",
+    "alias": "The Ghost",
+    "age": 42,
+    "gender": "Male",
+    "wantedFor": "Multi-million dollar cryptocurrency heist & cyber-warfare against federal systems",
+    "riskLevel": "Medium",
+    "status": "Wanted",
+    "physicalDescription": "Thin spectacles, neat goatee beard, sharp jawline, light complexion.",
+    "lastSeen": "Zurich, Switzerland",
+    "imagePath": "/database/criminal1.jpg"
+  },
+  {
+    "id": "criminal2",
+    "name": "Marcus Vance",
+    "alias": "The Viper",
+    "age": 29,
+    "gender": "Male",
+    "wantedFor": "Armed bank robbery, jailbreak, and assault on federal officers",
+    "riskLevel": "High",
+    "status": "Wanted / Armed and Dangerous",
+    "physicalDescription": "Rugged build, short buzzcut hair, distinctive scar across his left eyebrow.",
+    "lastSeen": "Detroit, Michigan",
+    "imagePath": "/database/criminal2.jpg"
+  },
+  {
+    "id": "criminal3",
+    "name": "Elena Rostova",
+    "alias": "The Siren",
+    "age": 35,
+    "gender": "Female",
+    "wantedFor": "Industrial espionage, ransomware blackmailing, and corporate data leakage",
+    "riskLevel": "Low",
+    "status": "Suspect",
+    "physicalDescription": "Sleek dark hair pulled back, high cheekbones, green eyes, professional attire.",
+    "lastSeen": "London, United Kingdom",
+    "imagePath": "/database/criminal3.jpg"
+  },
+  {
+    "id": "criminal4",
+    "name": "Sarah Lin",
+    "alias": "The Shadow",
+    "age": 24,
+    "gender": "Female",
+    "wantedFor": "Material witness and prime suspect in high-value museum antiquity smuggling",
+    "riskLevel": "Low",
+    "status": "Missing Person / Suspect",
+    "physicalDescription": "Straight shoulder-length blonde hair, round face, small dark mole on right cheek.",
+    "lastSeen": "Singapore",
+    "imagePath": "/database/criminal4.jpg"
+  }
+]

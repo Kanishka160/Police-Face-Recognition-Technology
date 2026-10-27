@@ -1,0 +1,6 @@
+{
+  "name": "Police Face Recognition Technology",
+  "description": "Facial recognition and criminal database matching system for law enforcement, with active database management and Python code export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
